@@ -1,0 +1,12 @@
+.picture{
+    height:50px;
+    width:50px;
+}
+
+.navbar{
+    background-color: rgb(255, 6, 172)!important;
+}
+
+.nav-link{
+    color: white!important;
+}
